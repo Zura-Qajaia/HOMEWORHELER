@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "subject": "Math",
+    "topic": "Calculus",
+    "questionText": "What is the derivative of x^2 + 3x + 2?",
+    "difficulty": "medium",
+    "correctAnswer": "2x + 3",
+    "explanation": "The derivative of x^2 is 2x and the derivative of 3x is 3. Constants disappear when differentiating."
+  },
+  {
+    "id": 2,
+    "subject": "Math",
+    "topic": "Algebra",
+    "questionText": "Solve for x: 2x + 3 = 7",
+    "difficulty": "easy",
+    "correctAnswer": "x = 2",
+    "explanation": "Subtract 3 from both sides to get 2x = 4, then divide both sides by 2 to get x = 2."
+  },
+  {
+    "id": 3,
+    "subject": "Math",
+    "topic": "Geometry",
+    "questionText": "What is the area of a triangle with base 5 and height 3?",
+    "difficulty": "easy",
+    "correctAnswer": "7.5",
+    "explanation": "The area of a triangle is given by 1/2 * base * height. So, 1/2 * 5 * 3 = 7.5."
+  },
+  {
+    "id": 4,
+    "subject": "Math",
+    "topic": "Trigonometry",
+    "questionText": "What is the value of sin(30 degrees)?",
+    "difficulty": "easy",
+    "correctAnswer": "0.5",
+    "explanation": "The sine of 30 degrees is 0.5 by definition of the sine function in a right triangle."
+  },
+  {
+    "id": 5,
+    "subject": "Math",
+    "topic": "Calculus",
+    "questionText": "What is the integral of 1/x dx?",
+    "difficulty": "hard",
+    "correctAnswer": "ln(x) + C",
+    "explanation": "The integral of 1/x is the natural logarithm of x, plus the constant of integration."
+  },
+  {
+    "id": 6,
+    "subject": "Math",
+    "topic": "Algebra",
+    "questionText": "What are the roots of the quadratic equation x^2 - 5x + 6 = 0?",
+    "difficulty": "medium",
+    "correctAnswer": "x = 2, 3",
+    "explanation": "Using the quadratic formula, the roots are (5 ± √(25 - 24)) / 2, which simplifies to x = 2 and x = 3."
+  },
+  {
+    "id": 7,
+    "subject": "Math",
+    "topic": "Statistics",
+    "questionText": "What is the mean of the data set {2, 4, 6, 8, 10}?",
+    "difficulty": "easy",
+    "correctAnswer": "6",
+    "explanation": "The mean is the sum of the data divided by the number of data points. (2+4+6+8+10) / 5 = 6."
+  },
+  {
+    "id": 8,
+    "subject": "Math",
+    "topic": "Probability",
+    "questionText": "What is the probability of getting a head in a fair coin toss?",
+    "difficulty": "easy",
+    "correctAnswer": "1/2",
+    "explanation": "A fair coin has two sides, so the probability of getting a head is 1 out of 2, or 1/2."
+  },
+  {
+    "id": 9,
+    "subject": "Math",
+    "topic": "Trigonometry",
+    "questionText": "What is the value of tan(45 degrees)?",
+    "difficulty": "easy",
+    "correctAnswer": "1",
+    "explanation": "The tangent of 45 degrees is 1 because the opposite and adjacent sides of a 45-degree right triangle are equal."
+  },
+  {
+    "id": 10,
+    "subject": "Math",
+    "topic": "Geometry",
+    "questionText": "What is the circumference of a circle with radius 4?",
+    "difficulty": "medium",
+    "correctAnswer": "8π",
+    "explanation": "The circumference of a circle is given by 2π times the radius. So, 2π * 4 = 8π."
+  }
+]
